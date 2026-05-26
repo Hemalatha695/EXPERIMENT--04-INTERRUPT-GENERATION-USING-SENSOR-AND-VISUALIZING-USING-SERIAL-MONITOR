@@ -705,18 +705,22 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 ## 4A 
- <img width="1919" height="1079" alt="Screenshot 2026-05-22 102948" src="https://github.com/user-attachments/assets/2d8e2c19-a0b2-433f-8740-6d3d5aeed634" />
+<img width="1920" height="1080" alt="596535643-ec5dbdbd-168c-409c-8b01-be57db6881b7" src="https://github.com/user-attachments/assets/3e1ad19b-d015-441b-862d-d9aadb294370" />
+
 
 ## 4B
- <img width="1600" height="1000" alt="WhatsApp Image 2026-05-22 at 10 40 10 AM" src="https://github.com/user-attachments/assets/99f5ca14-ac73-4ab4-8293-160733a4c55f" />
+<img width="1919" height="1015" alt="596536262-66028fa6-0d47-457f-a7c0-0d6d20856c36" src="https://github.com/user-attachments/assets/9bb5fbe8-4b91-40af-853b-7179bfe0772e" />
+
 
  ## Circuit board :
  ## 4A 
- <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/3a7c77e5-6c29-46a3-9b1e-8d4b4d174dfc" />
+<img width="1600" height="702" alt="596542493-54c78ea3-0596-45cb-9e37-f00bb3c327d2" src="https://github.com/user-attachments/assets/764345c1-df3e-47cb-99df-b173ef5f6651" />
 
  
  ## 4B
- <img width="851" height="720" alt="WhatsApp Image 2026-05-22 at 10 54 15 AM" src="https://github.com/user-attachments/assets/2e3def40-a6d8-43c4-a857-f7c8dd6efcd1" />
+<img width="1600" height="1204" alt="596541880-0becc70f-bcf9-49c9-9839-b28c1cd08d29" src="https://github.com/user-attachments/assets/746518f4-ca41-45f9-8d8a-c4ee72d2ff72" />
+
+<img width="1600" height="1204" alt="596542202-cb3edd12-fb82-470e-bad4-aa7709b2a2b0" src="https://github.com/user-attachments/assets/80bebf89-2715-4f10-ab6b-b87cd125b5a5" />
 
  
 ## Result :
